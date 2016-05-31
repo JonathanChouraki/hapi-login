@@ -1,0 +1,23 @@
+{
+  "name": "hapi-login",
+  "version": "1.0.0",
+  "description": "A basic user management system built with hapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/lab/bin/lab -c -L"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanChouraki/hapi-login.git"
+  },
+  "keywords": [
+    "hapijs",
+    "login"
+  ],
+  "author": "JonathanChouraki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanChouraki/hapi-login/issues"
+  },
+  "homepage": "https://github.com/JonathanChouraki/hapi-login#readme"
+}

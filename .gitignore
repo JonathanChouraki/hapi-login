@@ -1,0 +1,4 @@
+*.swp
+*.un~
+*.log
+node_modules/
