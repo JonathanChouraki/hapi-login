@@ -19,5 +19,16 @@
   "bugs": {
     "url": "https://github.com/JonathanChouraki/hapi-login/issues"
   },
-  "homepage": "https://github.com/JonathanChouraki/hapi-login#readme"
+  "homepage": "https://github.com/JonathanChouraki/hapi-login#readme",
+  "dependencies": {
+    "hapi": "^13.4.1",
+    "joi": "^8.4.0",
+    "pg": "^4.5.5",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.23.3"
+  },
+  "devDependencies": {
+    "code": "^3.0.0",
+    "lab": "^10.7.1"
+  }
 }
